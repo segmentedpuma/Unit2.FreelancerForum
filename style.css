@@ -1,0 +1,24 @@
+
+li{
+  list-style-type: none;
+  margin-bottom: 12;
+
+  padding-left: 10%;
+  padding-right: 20;
+ 
+}
+
+#list {
+  display: flex;
+  justify-content: space-evenly;
+  border: 1px solid black;
+
+
+}
+
+#averageDisplay{
+  display: flex;
+}
+#average{
+  margin-left: 10;
+}
